@@ -1,0 +1,12 @@
+{
+  "fullName": "Hoang Nguyen Duc",
+  "email": "hoang@gmail.com",
+  "gender": "Male",
+  "mobile": "0123456789",
+  "dateOfBirth": "17 January 2000",
+  "subjects": ["Maths", "English"],
+  "hobby":"Sports",
+  "currentAddress": "address demo1",
+  "state":"NCR",
+  "city":"Delhi"
+}
